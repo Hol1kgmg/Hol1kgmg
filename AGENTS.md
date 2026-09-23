@@ -2,7 +2,7 @@
 {プロジェクトの概要を記述 (例: Dotfiles management project for macOS using Nix and Home-Manager)}
 
 # Setup and Basic Usage
-Setup instructions and basic usage are documented in [README.md](./README.md).
+Setup instructions and basic usage are documented in [docs/DEVELOPMENT.md](./docs/DEVELOPMENT.md).
 
 # Directory Structure
 {※ディレクトリ構造のドキュメントが不要な場合はこのセクションごと削除}
